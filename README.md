@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3v3ryone" alt="3v3ryone" /></a> </p>
 
-- 🔭 I’m currently working on [Metasploit - GSoC](https://github.com/3V3RYONE/metasploit-framework)
+- 🔭 I’m currently working on **Competitive Coding**
 
 - 🌱 I’m currently learning **AI**
 
