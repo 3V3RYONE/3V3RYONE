@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **beleswarprasad@gmail.com**
 
+- ⚡ Fun fact **I love touch typing. Highest WPM: 114**
+
 - ⚡ Fun fact **I am a night owl, literally.**
 
 <h3 align="left">Connect with me:</h3>
